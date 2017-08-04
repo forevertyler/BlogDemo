@@ -55,4 +55,15 @@ var test = testArr.reduce((previous,current,index,array) => {
 })//结果集：21
 ````
 
+*** 注意点 ***
+
+1.一个参数的可以不带括号直接作用
+
+- 没有参数的必须带小括号
+
+- 多条执行语句需花括号包裹
+
+- 字面量对象的返回需要小括号包裹！！！！
+
+- `this` 强制绑定（定义绑定），普通函数是用时绑定 `(apply,call,bind)` ; 箭头函数的 `this` 不等同于 `usestrict` 模式下的 `this`
 
