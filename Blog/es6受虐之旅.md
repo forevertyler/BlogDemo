@@ -1,5 +1,5 @@
-<h1 style="font-size: 40px;text-align:center;color: #007cdc;">
-    es6受虐之旅
+<h1 style="font-size: 40px;text-align:center;color: #007cdc;font-weight: bold;">
+    ES6受虐之旅
 </h1>
 
 ###  从今天开始重新整理学习es6
